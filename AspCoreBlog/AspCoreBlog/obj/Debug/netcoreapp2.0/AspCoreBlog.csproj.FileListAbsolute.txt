@@ -1,0 +1,11 @@
+E:\my git repo\AspCoreBlog\AspCoreBlog\bin\Debug\netcoreapp2.0\AspCoreBlog.deps.json
+E:\my git repo\AspCoreBlog\AspCoreBlog\bin\Debug\netcoreapp2.0\AspCoreBlog.runtimeconfig.json
+E:\my git repo\AspCoreBlog\AspCoreBlog\bin\Debug\netcoreapp2.0\AspCoreBlog.runtimeconfig.dev.json
+E:\my git repo\AspCoreBlog\AspCoreBlog\bin\Debug\netcoreapp2.0\AspCoreBlog.dll
+E:\my git repo\AspCoreBlog\AspCoreBlog\bin\Debug\netcoreapp2.0\AspCoreBlog.pdb
+E:\my git repo\AspCoreBlog\AspCoreBlog\obj\Debug\netcoreapp2.0\AspCoreBlog.csprojResolveAssemblyReference.cache
+E:\my git repo\AspCoreBlog\AspCoreBlog\obj\Debug\netcoreapp2.0\AspCoreBlog.csproj.CoreCompileInputs.cache
+E:\my git repo\AspCoreBlog\AspCoreBlog\obj\Debug\netcoreapp2.0\AspCoreBlog.AssemblyInfoInputs.cache
+E:\my git repo\AspCoreBlog\AspCoreBlog\obj\Debug\netcoreapp2.0\AspCoreBlog.AssemblyInfo.cs
+E:\my git repo\AspCoreBlog\AspCoreBlog\obj\Debug\netcoreapp2.0\AspCoreBlog.dll
+E:\my git repo\AspCoreBlog\AspCoreBlog\obj\Debug\netcoreapp2.0\AspCoreBlog.pdb
