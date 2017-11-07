@@ -1,0 +1,10 @@
+﻿namespace AspCoreBlog.Data.Models
+{
+    public class PostTag
+    {
+        public int PostId { get; set; }
+        public int TagId { get; set; }
+        public Post Post { get; set; }
+        public Tags Tags { get; set; }
+    }
+}
