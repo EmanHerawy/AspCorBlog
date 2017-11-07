@@ -19,7 +19,14 @@ namespace AspCoreBlog
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+            .ConfigureAppConfiguration(SetUpCpnfiguration)
                 .UseStartup<Startup>()
                 .Build();
+
+        private static void SetUpCpnfiguration(WebHostBuilderContext ctx, IConfigurationBuilder builder)
+        {
+            builder.Sources.Clear();
+            builder.AddJsonFile("config.json", false, true);
+        }
     }
 }

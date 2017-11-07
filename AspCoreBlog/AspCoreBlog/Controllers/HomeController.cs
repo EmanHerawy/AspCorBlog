@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using AspCoreBlog.Data.Models;
 using Microsoft.AspNetCore.Mvc;
-using AspCoreBlog.Models;
 
 namespace AspCoreBlog.Controllers
 {
