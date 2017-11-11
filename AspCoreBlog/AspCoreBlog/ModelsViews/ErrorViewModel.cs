@@ -1,4 +1,4 @@
-namespace AspCoreBlog.Data.Models
+namespace AspCoreBlog.ModelsViews
 {
     public class ErrorViewModel
     {

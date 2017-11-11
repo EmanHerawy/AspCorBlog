@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using AspCoreBlog.Data.Models;
+using AspCoreBlog.ModelsViews;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AspCoreBlog.Controllers

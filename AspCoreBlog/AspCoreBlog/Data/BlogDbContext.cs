@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using AspCoreBlog.Data.Configurations;
 using Microsoft.EntityFrameworkCore;
+using AspCoreBlog.Data.Models;
 
 namespace AspCoreBlog.Data
 {
@@ -21,5 +22,6 @@ namespace AspCoreBlog.Data
             modelBuilder.ApplyConfiguration(new PostTagConfiguration());
             modelBuilder.ApplyConfiguration(new TagsConfiguration());
         }
+        public DbSet<AspCoreBlog.Data.Models.Post> Post { get; set; }
     }
 }
